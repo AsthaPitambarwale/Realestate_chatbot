@@ -67,7 +67,7 @@ Analyze real estate datasets, generate professional summaries, compare areas, an
 
 
 1. git clone <repo\_url>
-2. cd real-estate-ai
+2. cd realestate-chatbot
 3. python -m venv venv
 4. source venv/bin/activate  # Linux/Mac
 5. venv\\Scripts\\activate     # Windows
