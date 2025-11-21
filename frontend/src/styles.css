@@ -1,0 +1,7 @@
+html.dark {
+  color-scheme: dark;
+}
+
+body {
+  @apply bg-gray-100 dark:bg-gray-900 transition-colors;
+}

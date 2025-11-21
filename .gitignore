@@ -1,0 +1,11 @@
+# Python virtual environment
+venv/
+__pycache__/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Node modules (if frontend uses Node)
+node_modules/
+.env
